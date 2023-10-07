@@ -1,7 +1,5 @@
 # Hi there, I'm Hrithik Prakash! 👋 
 
-I'm an aspiring software engineer and tech enthusiast based in Los Angeles, CA. I'm always eager to learn new skills and work on exciting projects.
-
 ## A little bit about me
 
 - 🎓 I recently completed my Bacelors in Information Technology at BCET, Durgapur
