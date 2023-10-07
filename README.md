@@ -10,13 +10,9 @@
 - 📫 How to reach me: hrithkshok@gmail.com
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,bootstrap,vscode,git,github)](https://skillicons.dev)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## Hacktober Fest 2022 Badges
 <p>
@@ -30,8 +26,8 @@
 You can find me on:  
 [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] 
 
-[1.2]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[1.2]: https://skillicons.dev/icons?i=instagram
+[2.2]: https://skillicons.dev/icons?i=linkedin
 
 [1]: https://www.instagram.com/frm_the.heart
 [2]: https://www.linkedin.com/in/hrithik-prakash
