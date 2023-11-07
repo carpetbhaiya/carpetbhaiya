@@ -10,7 +10,7 @@
 - 📫 How to reach me: hrithkshok@gmail.com
 
 ## Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,bootstrap,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,bootstrap,vscode,git,github,dart,flutter)](https://skillicons.dev)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 
